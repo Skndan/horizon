@@ -1,0 +1,12 @@
+[submodule "horizon-app"]
+	path = horizon-app
+	url = https://github.com/Skndan/horizon-app
+[submodule "horizon-api"]
+	path = horizon-api
+	url = https://github.com/Skndan/horizon-api.git
+[submodule "horizon-web"]
+	path = horizon-web
+	url = https://github.com/Skndan/horizon-web.git
+[submodule "horizon-app-server"]
+	path = horizon-app-server
+	url = https://github.com/Skndan/horizon-app-server.git
