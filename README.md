@@ -6,6 +6,13 @@ To clone this repository along with its submodules, use the following command:
 git clone --recursive-submodules https://github.com/Skndan/horizon.git
 ```
 
+### Add new submodule
+To add a new submodule from the existing repo, use
+```shell
+git submodule add <new submodule git link>
+```
+Please ensure that the repo is already initialized
+
 ### Pushing Changes
 To push changes to the main branch, use:
 ```shell
