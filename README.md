@@ -13,6 +13,14 @@ git submodule add <new submodule git link>
 ```
 Please ensure that the repo is already initialized
 
+### Remove existing submodule
+To remove a existing submodule from the existing repo, use
+```shell
+git rm --cached <submodule name>
+```
+Use when fatal error occurs when ``git add .``
+
+
 ### Pushing Changes
 To push changes to the main branch, use:
 ```shell
